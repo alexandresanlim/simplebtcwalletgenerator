@@ -1,0 +1,10 @@
+npm i bip39 bip32@2.0.6 bitcoinjs-lib --save
+
+install electrum
+https://electrum.org/#download
+
+block explorer
+https://mempool.space/
+
+test net faucet
+https://coinfaucet.eu/en/btc-testnet/
